@@ -12,7 +12,7 @@ To leverage my cybersecurity and IT support skills in a dynamic environment, aim
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Security & Analysis                   | [Network Security Assessment Project](#) |
-| SIEM Implementation & Log Analysis            | [Commonwealth Bank Cybersecurity Simulation](#) |
+| SIEM Implementation & Log Analysis            | [Commonwealth Bank Cybersecurity Simulation](https://github.com/DamianMutisya/write-ups/blob/main/Fraud%20Detection%20using%20Splunk.pdf) |
 | Vulnerability Assessment & Penetration Testing| [Tata Cybersecurity Analyst Simulation](#) |
 | Incident Response & Threat Mitigation         | [AIG Shields Up Cybersecurity Program](#) |
 | IT Infrastructure Management                  | [Windows Server 2022 Home Lab Project](#) |
