@@ -16,7 +16,7 @@ To leverage my cybersecurity and IT support skills in a dynamic environment, aim
 | Vulnerability Assessment & Penetration Testing| [Tata Cybersecurity Analyst Simulation](#) |
 | Incident Response & Threat Mitigation         | [AIG Shields Up Cybersecurity Program](#) |
 | IT Infrastructure Management                  | [Windows Server 2022 Home Lab Project](#) |
-| Security Awareness Training                   | [Strive and Excel Commercial College](#) |
+| Security Awareness Training                   | [Security Awareness training](https://github.com/DamianMutisya/write-ups/blob/main/security%20awareness.pdf) |
 
 ## Tools
 
