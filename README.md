@@ -55,6 +55,9 @@ To leverage my cybersecurity and IT support skills in a dynamic environment, aim
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Q4CUJQPNWEWC" target="_blank">
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate">
 </a>
+<a href="https://drive.google.com/file/d/1ip-G0wCXaP8sKJz2Wl2sHEuION45WOrq/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-Forage_Cybersecurity_Simulations-00ADEF?&style=for-the-badge&logoColor=white" alt="Forage Cybersecurity Simulations Certificate">
+</a>
 
 </div>
 
