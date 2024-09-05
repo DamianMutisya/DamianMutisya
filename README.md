@@ -16,7 +16,7 @@ To leverage my cybersecurity and IT support skills in a dynamic environment, aim
 | Vulnerability Assessment & Penetration Testing| [Hackthissite Basic report ](https://damianmutisya.github.io/write-ups/HackThisSite%20Basic%20Challenges%20report.pdf) |
 | Incident Response & Threat Mitigation         | [AIG Shields Up Cybersecurity Program](https://damianmutisya.github.io/write-ups/Incident%20response%20and%20Threat%20mitigation.pdf) |
 | IT Infrastructure Management                  | [Windows Server 2022 Home Lab Project](#) |
-| Security Awareness Training                   | [Security Awareness training]([https://github.com/DamianMutisya/write-ups/blob/main/security%20awareness.pdf](https://damianmutisya.github.io/write-ups/security%20awareness.pdf)) |
+| Security Awareness Training                   | [Security Awareness training](https://damianmutisya.github.io/write-ups/security%20awareness.pdf) |
 
 ## Tools
 
