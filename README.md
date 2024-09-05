@@ -43,11 +43,19 @@ To leverage my cybersecurity and IT support skills in a dynamic environment, aim
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-ISC²_CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SOC_Level_1-FF0000?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Networking_Essentials-005571?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<a href="https://alison.com/certification/check/2y10924qCbMnmBQv48ZJ54mocODCzDEOR1rQQAp2Y7sBRbvenSZLzeby" target="_blank">
+    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certificate">
+</a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QB3VD1JXYB.png" target="_blank">
+    <img src="https://img.shields.io/badge/-SOC_Level_1-FF0000?&style=for-the-badge&logoColor=white" alt="SOC Level 1 Certificate">
+</a>
+<a href="https://drive.google.com/file/d/1mT6c6MJ-B3GxM0cqSBEqO1LTnIF61g0A/view" target="_blank">
+    <img src="https://img.shields.io/badge/-ISC²_CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC² CC Certificate">
+</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Q4CUJQPNWEWC" target="_blank">
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate">
+</a>
+
 </div>
 
 ## Projects
