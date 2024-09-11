@@ -35,8 +35,11 @@ To leverage my cybersecurity and IT support skills in a dynamic environment, aim
 
 ### SIEM & Security Tools
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-003e54?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <a href="https://damianmutisya.github.io/write-ups/Fraud%20Detection%20using%20Splunk.pdf">
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Report"/>
+</a>
+
+  <img src="https://img.shields.io/badge/-Metasploit-003e54?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-007ACC?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF5733?&style=for-the-badge&logoColor=white" />
 </div>
