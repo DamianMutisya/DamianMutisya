@@ -67,7 +67,7 @@ To leverage my cybersecurity and IT support skills in a dynamic environment, aim
 ## Projects
 - [Network Security Assessment Project](#): Conducted a comprehensive security assessment using tools like Nmap and Wireshark to identify vulnerabilities and propose mitigations.
 - [Windows Server 2022 Home Lab Project](#): Set up and managed a Windows Server environment, including Active Directory and Group Policy management.
-- [Kenyan Recipe Search and Generation Engine](https://github.com/DamianMutisya/write-ups/blob/main/recipe%20search%20engine.pdf): Developed a secure web application using Node.js and React.js with a focus on implementing cybersecurity best practices.
+- [Kenyan Recipe Search and Generation Engine](https://github.com/DamianMutisya/Kenyan-recipe-generator): Developed a secure web application using Node.js and React.js with a focus on implementing cybersecurity best practices.
 
 
 
